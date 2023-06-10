@@ -1,0 +1,83 @@
+Comparison between the services of main 3 cloud providers.
+
+ 
+#TerraWeek Day 5 challenge tasks for the below
+
+Task 1: 
+- Learn about Terraform providers and their role in interacting with different cloud platforms or infrastructure services.
+- Compare the providers' features and supported resources for each cloud platform.
+
+Task 2: 
+- Explore provider configuration and authentication.
+- Set up authentication for each provider on your local machine.
+
+Task 3: 
+- Practice using providers for platforms such as AWS, Azure, Google Cloud, or others.
+- Create a Terraform configuration file (main.tf) and configure the chosen provider.
+- Authenticate with the chosen cloud platform using the appropriate method.
+- Deploy a simple resource (e.g., a VPC, Subnet Group, Route Table, Internet Gateway, a virtual machine ) using the chosen provider.
+- Update the resource configuration and apply the changes using Terraform and use destroy to clean up.
+TerraWeek Challenge - Day 4: Terraform Providers
+Welcome to Day 4 of the TerraWeek challenge! 🚀 In today's tasks, we will explore Terraform providers and their role in interacting with different cloud platforms or infrastructure services. We will also dive into provider configuration, authentication, and hands-on practice using providers for platforms such as AWS, Azure, Google Cloud, or others.
+Task 1: Learn and Compare Terraform Providers
+✨ Objective: Learn about Terraform providers and compare their features across different cloud platforms.
+📚 Steps:
+•	Spend time learning about Terraform providers and their significance in managing resources across various cloud platforms or infrastructure services.
+•	Compare the features and supported resources for each cloud platform's Terraform provider to gain a better understanding of their capabilities.
+Task 2: Provider Configuration and Authentication
+✨ Objective: Explore provider configuration and set up authentication for each provider.
+📚 Steps:
+•	Explore provider configuration and authentication mechanisms in Terraform.
+•	Set up authentication for each provider on your local machine to establish the necessary credentials for interaction with the respective cloud platforms.
+Task 3: Practice Using Providers
+✨ Objective: Gain hands-on experience using Terraform providers for your chosen cloud platform.
+📚 Steps:
+•	Choose a cloud platform (AWS, Azure, Google Cloud, or others) as your target provider for this task.
+•	Create a Terraform configuration file named main.tf and configure the chosen provider within it.
+•	Authenticate with the chosen cloud platform using the appropriate authentication method (e.g., access keys, service principals, or application default credentials).
+•	Deploy a simple resource using the chosen provider. For example, if using AWS, you could provision a Virtual Private Cloud (VPC), Subnet Group, Route Table, Internet Gateway, or a virtual machine.
+•	🔄 Experiment with updating the resource configuration in your main.tf file and apply the changes using Terraform. Observe how Terraform intelligently manages the resource changes.
+•	Once you are done experimenting, use the terraform destroy command to clean up and remove the created resources.
+Remember to document your learnings, challenges, and any questions that arise during the tasks. This documentation will be helpful during the final debriefing session.
+📝 Enjoy exploring Terraform providers and their capabilities with different cloud platforms!
+Note: Ensure you have the necessary cloud provider accounts and credentials to complete the tasks successfully.
+Happy Terraforming! 🌍💻
+
+
+
+
+
+
+
+
+
+
+Day 07 - Advanced Terraform Topics
+Welcome to the advanced TerraWeek challenge! In this phase, we will dive into advanced topics that will enhance your Terraform skills. Let's explore exciting concepts such as workspaces, remote execution, collaboration, best practices, and additional features to take your Terraform knowledge to the next level.
+Task 1: Workspaces, Remote Execution, and Collaboration
+✨ Objective: Gain proficiency in using workspaces, remote execution, and collaboration features in Terraform.
+📚 Steps:
+•	Dive into the concepts of Terraform workspaces and understand how they can be utilized to manage multiple environments.
+•	Explore remote execution options such as using remote backends (e.g., AWS S3, Azure Storage Account, or HashiCorp Consul) and understand the benefits they offer.
+•	Learn about collaboration tools like HashiCorp Terraform Cloud or Terraform Enterprise and how they facilitate team collaboration and version control.
+Task 2: Terraform Best Practices
+✨ Objective: Learn and implement best practices for organizing your Terraform code, version control, and CI/CD integration.
+📚 Steps:
+•	Familiarize yourself with Terraform best practices, including code organization, module usage, and naming conventions.
+•	Explore version control systems (e.g., Git) and learn how to effectively manage your Terraform codebase.
+•	Understand how to integrate Terraform with CI/CD pipelines and implement automated testing, validation, and deployment strategies.
+Task 3: Exploring Additional Features
+✨ Objective: Explore additional features available in the Terraform ecosystem, such as Terraform Cloud, Terraform Enterprise, or the Terraform Registry.
+📚 Steps:
+•	Dive deeper into Terraform Cloud or Terraform Enterprise and understand how they provide enhanced collaboration, infrastructure management, and workflow automation capabilities.
+•	Discover the Terraform Registry and explore its vast collection of modules and providers to extend the functionality of your infrastructure code.
+Remember to document your learnings, experiment with the concepts in practice, and ask questions during the debriefing sessions.
+📝 Enjoy delving into advanced Terraform topics and unlocking the full potential of infrastructure as code!
+Note: Some advanced features may require additional setup or accounts. Refer to the official documentation for detailed instructions.
+Happy Terraforming! 🌍💻
+
+
+
+
+
+
