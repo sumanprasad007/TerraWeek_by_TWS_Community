@@ -12,23 +12,11 @@ Terraform is not just any ordinary tool, it's a game-changer! 🎮 It's an open-
 
 ## How to Get Started?
 
-### Installation
-Let's embark on this thrilling adventure together! 🧭 Follow our easy installation guide to set up Terraform on your machine. Once you have it up and running, you'll be ready to conquer the world of infrastructure as code.
-
-### Learning Resources
-Are you ready to level up your skills? 🚀 Access our curated collection of tutorials, videos, and courses. We've carefully handpicked the most powerful learning resources to help you quickly grasp Terraform's concepts and become an infrastructure ninja!
-
-### Examples
-Enough theory, let's dive into real-world scenarios! 💡 Explore our extensive collection of mind-blowing examples that cover different cloud providers and use cases. See Terraform in action and get inspired to create awe-inspiring infrastructure solutions of your own.
-
-### Documentation
-Become a Terraform maestro! 🧙‍♂️ Refer to our comprehensive documentation for in-depth explanations, best practices, and hidden secrets. Unleash the full potential of Terraform and master the art of infrastructure orchestration.
-
-### Community
-No journey is complete without companions! 👥 Join the Terraform community and connect with experts from all over the world. Ask questions, seek guidance, and share your knowledge. Together, we can achieve greatness!
-
-## Contribute to the Challenge
-Are you ready to leave your mark on the Terraform universe? 🌟 Help us build a valuable resource hub by contributing your Terraform guides, examples, or resources through pull requests. Your expertise can make a significant impact on the entire community!
+1. [Installation](https://karenngugi.hashnode.dev/installing-terraform-on-ubuntu-2204): Follow our easy installation guide to set up Terraform on your machine.
+2. [Learning Resources](https://www.youtube.com/@TrainWithShubham): Access our curated collection of tutorials, videos, and courses to quickly grasp Terraform's concepts.
+3. [Examples](https://github.com/hashicorp/terraform.git): Explore real-world examples covering different cloud providers and use cases to see Terraform in action.
+4. [Documentation](https://registry.terraform.io/): Refer to our comprehensive documentation for in-depth explanations and best practices.
+5. [Community](https://t.me/trainwithshubham): Join the Terraform community to connect with experts, ask questions, and share your knowledge.
 
 
 ## Let's Get Started!
