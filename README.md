@@ -2,6 +2,8 @@
 
 🚀 Welcome to the Terraweek Challenge! 🚀
 
+![image](https://github.com/sumanprasad007/TerraWeek_by_TWS_Community/assets/55047333/571330da-ddd4-4c5b-82b3-5eaa47cdca96)
+
 This repository is your one-stop destination for all things Terraform. Whether you're a seasoned pro or new to infrastructure as code, we've got you covered.
 
 ## What is Terraform?
@@ -28,7 +30,6 @@ No journey is complete without companions! 👥 Join the Terraform community and
 ## Contribute to the Challenge
 Are you ready to leave your mark on the Terraform universe? 🌟 Help us build a valuable resource hub by contributing your Terraform guides, examples, or resources through pull requests. Your expertise can make a significant impact on the entire community!
 
-![image](https://github.com/sumanprasad007/TerraWeek_by_TWS_Community/assets/55047333/571330da-ddd4-4c5b-82b3-5eaa47cdca96)
 
 ## Let's Get Started!
 
