@@ -8,6 +8,7 @@ This repository is your one-stop destination for all things Terraform. Whether y
 
 ## Checkout my blogs
 - 🔗: https://sumanprasad.hashnode.dev
+- 👩‍💻: https://linkedin.com/in/prasad-suman-mohan/
 
 ## What is Terraform?
 
