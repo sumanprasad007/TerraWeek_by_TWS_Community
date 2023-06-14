@@ -2,12 +2,12 @@
 
 🚀 Welcome to the Terraweek Challenge! 🚀
 
-<p align="center">
-  <img align="center" src="https://github.com/LondheShubham153/TerraWeek/blob/main/assets/Terraform_background.jpg" width="800">
-</p>
 ![image](https://github.com/sumanprasad007/TerraWeek_by_TWS_Community/assets/55047333/571330da-ddd4-4c5b-82b3-5eaa47cdca96)
 
 This repository is your one-stop destination for all things Terraform. Whether you're a seasoned pro or new to infrastructure as code, we've got you covered.
+
+## Checkout my blogs
+- 🔗: https://sumanprasad.hashnode.dev
 
 ## What is Terraform?
 
